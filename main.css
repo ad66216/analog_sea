@@ -1,0 +1,63 @@
+body {
+	background-color: #3090EC;
+}
+.logo {
+	width: auto;
+	height: 35px;
+	padding-top: 40px;
+}
+header {
+	text-align: center;
+}
+.main-form h2 {
+	font-size: 40px;
+	padding-top: 20px;
+}
+.main-form {
+	width: 400px;
+	height: 500px;
+	background-color: white;
+	margin: auto;
+	padding-right: 40px;
+	padding-left: 40px;
+	text-align: center;
+}
+.sign-up-fieldset {
+	text-align: left;
+	border: 0;
+	/*border: 2px solid black;*/
+}
+.sign-up-fieldset input {
+	width: 350px;
+	height: 55px;
+	margin-bottom: 20px;
+	font-size: 18px;
+	padding-left: 10px;
+	background-color: #FCFCFC;
+	border-radius: 5px;
+	border: 2px solid #E8E8E8;
+}
+.sign-up-fieldset label {
+	display: block;
+	margin-bottom: 20px;
+}
+.submit-button {
+	width: 365px;
+	height: 55px;
+	background-color: #2DCF71;
+	font-size: 18px;
+	color: white;
+	font-weight: bold;
+	border-radius: 5px;
+	border: 2px solid #E8E8E8;
+	display: block;
+	/*margin-left: 20px;*/
+	margin: auto;
+}
+.has-account {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	color: white;
+	font-weight: bold;
+}
